@@ -4,4 +4,4 @@ Mono Repository of React Native Projects for practice
 
 ## Repository List
 
-- [TodoList](/packages/TodoList/README.md)
+- [TodoList](/packages/TodoList)
