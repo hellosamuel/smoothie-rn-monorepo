@@ -2,7 +2,7 @@
   "name": "smoothie-rn-practices",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/hellosamuel/smoothie-rn-monorepo.git",
+  "repository": "https://github.com/hellosamuel/smoothie-rn-practices.git",
   "author": "hellosamuel",
   "license": "MIT",
   "scripts": {
