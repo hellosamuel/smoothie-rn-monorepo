@@ -1,16 +1,12 @@
 {
-  "name": "smoothie-rn-monorepo",
+  "name": "smoothie-rn-practices",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "https://github.com/hellosamuel/smoothie-rn-monorepo.git",
+  "author": "hellosamuel",
   "license": "MIT",
-  "private": true,
-  "workspaces": [
-    "packages/*"
-  ],
-  "devDependencies": {
-    "lerna": "^3.22.1"
-  },
   "scripts": {
-    "start:todolist": "yarn workspace @smoothie/todolist run start"
+    "start:todolist": "cd packages/TodoList && yarn start",
+    "start:weather": "cd packages/Weather && yarn start"
   }
 }

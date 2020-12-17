@@ -1,7 +1,10 @@
-# smoothie-rn-monorepo
+# smoothie-rn-practices
 
-Mono Repository of React Native Projects for practice
+Practices for React Native
 
 ## Repository List
 
 - [TodoList](/packages/TodoList)
+  - enter `yarn start:todolist` for start
+- [Weather](/packages/Weather)
+  - enter `yarn start:weather` for start
