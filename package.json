@@ -7,6 +7,7 @@
   "license": "MIT",
   "scripts": {
     "start:todolist": "cd packages/TodoList && yarn start",
-    "start:weather": "cd packages/Weather && yarn start"
+    "start:weather": "cd packages/Weather && yarn start",
+    "start:movie": "cd packages/Movie && yarn start"
   }
 }

@@ -8,3 +8,5 @@ Practices for React Native
   - enter `yarn start:todolist` for start
 - [Weather](/packages/Weather)
   - enter `yarn start:weather` for start
+- [Movie](/packages/Movie)
+- enter `yarn start:movie` for start
