@@ -9,4 +9,6 @@ Practices for React Native
 - [Weather](/packages/Weather)
   - enter `yarn start:weather` for start
 - [Movie](/packages/Movie)
-- enter `yarn start:movie` for start
+  - enter `yarn start:movie` for start
+- [SNS](/packages/SNS)
+  - enter `yarn start:sns` for start
